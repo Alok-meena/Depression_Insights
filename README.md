@@ -31,3 +31,31 @@ Future Enhancements
 2). Expanding datasets to include diverse populations.
 
 3). Extending the methodology to other mental health conditions.
+
+
+
+
+
+
+
+
+How to Run
+
+1).Clone the repository:
+
+
+git clone https://github.com/yourusername/Depression_Insights.git
+cd Depression_Insights
+
+
+2). Install required dependencies:
+
+
+pip install -r requirements.txt
+
+
+3). Run the Streamlit app:
+
+streamlit run app.py
+
+4). Open the provided URL in your browser to access the app.
