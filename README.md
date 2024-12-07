@@ -74,6 +74,7 @@ Evaluation Metrics and Results
 • Confusion matrix:
 
 Actual/Predicted Positive Negative
+
   Positive          432     128
   Negative          13      192
 
@@ -88,6 +89,7 @@ Actual/Predicted Positive Negative
 • Confusion matrix:
 
   Actual/Predicted Positive Negative
+  
       Positive        508     52
       Negative         39     166
 
@@ -103,6 +105,7 @@ Actual/Predicted Positive Negative
 
 
 Actual/Predicted Positive Negative
+
     Positive         508    52
     Negative         39    166
 
@@ -118,8 +121,10 @@ Actual/Predicted Positive Negative
 
 
 Actual/Predicted Positive Negative
+
     Positive        455    105
     Negative         9     196
+    
 5) Neural Network:
 • Accuracy: 0.88
 • Precision: 0.76
@@ -130,5 +135,6 @@ Actual/Predicted Positive Negative
 • Confusion matrix:
 
 Actual/Predicted Positive Negative
+
      Positive       507    53
      Negative       37     168
